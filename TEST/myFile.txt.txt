@@ -1,2 +1,3 @@
 this is a text file
 Changed text on the browser
+Changed text from the BugFix branch
